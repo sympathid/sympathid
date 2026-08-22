@@ -8,14 +8,14 @@
     <summary>morty</summary>
     <p align="center"> <img src="https://files.catbox.moe/sz0gyv.gif">
     <br> morty . 12-14 . host
-    <br> <img src="url"> <img src="url"> </p>
+    <br> <img src="https://files.catbox.moe/9kmhqv.gif"> <img src="https://files.catbox.moe/n4t4x1.gif"> </p>
   </details>
   
 <details>
     <summary>emrys</summary>
     <p align="center"> <img src="https://files.catbox.moe/ggppiw.gif">
-    <br> em / emrys . ?? . ??
-    <br> <img src="url"> <img src="url"> </p>
+    <br> em / emrys . 12-16 . ??
+    <br> <img src="https://files.catbox.moe/itfh0s.gif"> <img src="https://files.catbox.moe/ouce8w.gif"> </p>
   </details>
 </body>
 
