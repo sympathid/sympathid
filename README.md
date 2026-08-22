@@ -1,13 +1,28 @@
 <body> <p align="center"> "WIPWIP WIP"
-<br> image
-<br> morty . 18+ . sys.alter
-  <br> i don’t really have a dni, just don’t be mean ig. </p>
+<br> morty . 18+ . subsys
+  <br> <img src="https://files.catbox.moe/s4ku8m.gif">
+  <br> Dni people that hate me. That's about it.
+<br> Yes, I will end up following people just because they have a r&m skin. </p>
+
   <details>
-    <summary>test</summary>
-    <p align="center"> txttest txt txt </p>
+    <summary>morty</summary>
+    <p align="center"> <img src="https://files.catbox.moe/sz0gyv.gif">
+    <br> morty . 12-14 . host
+    <br> <img src="url"> <img src="url"> </p>
   </details>
-  <details>
-    <summary>flash warning</summary>
-    <p align="center"> text </p>
+  
+<details>
+    <summary>emrys</summary>
+    <p align="center"> <img src="https://files.catbox.moe/ggppiw.gif">
+    <br> em / emrys . ?? . ??
+    <br> <img src="url"> <img src="url"> </p>
+  </details>
+</body>
+
+<details>
+    <summary>layout temp</summary>
+    <p align="center"> <img src="url">
+    <br> name . 00 . role
+    <br> <img src="url"> <img src="url"> </p>
   </details>
 </body>
