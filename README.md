@@ -29,9 +29,9 @@
 
 <details>
     <summary>rick</summary>
-    <p align="center"> <img src="url">
+    <p align="center"> <img src="https://files.catbox.moe/auodrq.gif">
     <br> rick . 60+ . ???
-    <br> <img src="url"> <img src="url"> </p>
+    <br> <img src="https://files.catbox.moe/e5b1i7.png"> <img src="https://files.catbox.moe/mlf37n.gif"> </p>
   </details>
 </body>
 
