@@ -30,7 +30,7 @@
 <details>
     <summary>rick</summary>
     <p align="center"> <img src="https://files.catbox.moe/auodrq.gif">
-    <br> rick . 60+ . ???
+    <br> rick . 60+ . persecutor
     <br> <img src="https://files.catbox.moe/yhrs0a.png"> <img src="https://files.catbox.moe/e5b1i7.png"> <img src="https://files.catbox.moe/mlf37n.gif"> </p>
   </details>
 </body>
