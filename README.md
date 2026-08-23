@@ -20,7 +20,7 @@
 <details>
     <summary>emrys</summary>
     <p align="center"> <img src="https://files.catbox.moe/ggppiw.gif">
-    <br> em / emrys . 12-16 . ??
+    <br> em / emrys . 12-16 . ???
     <br> <img src="https://files.catbox.moe/itfh0s.gif"> <img src="https://files.catbox.moe/ouce8w.gif"> </p>
   </details>
 </body>
@@ -28,9 +28,9 @@
 <p align="center"> <mark>"And your beating heart has gone insane,"</mark> </p>
 
 <details>
-    <summary>layout temp</summary>
+    <summary>rick</summary>
     <p align="center"> <img src="url">
-    <br> name . 00 . role
+    <br> rick . 60+ . ???
     <br> <img src="url"> <img src="url"> </p>
   </details>
 </body>
