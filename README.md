@@ -12,7 +12,7 @@
     <summary>morty</summary>
     <p align="center"> <img src="https://files.catbox.moe/sz0gyv.gif">
     <br> morty . 12-14 . host
-    <br> <img src="https://files.catbox.moe/9kmhqv.gif"> <img src="https://files.catbox.moe/n4t4x1.gif"> </p>
+    <br> <img src="https://files.catbox.moe/9kmhqv.gif"> <img src="https://files.catbox.moe/02jjps.gif"> <img src="https://files.catbox.moe/n4t4x1.gif"> </p>
   </details>
 
   <p align="center"> <mark>"You are fooled by the way that this act behaves"</mark> </p>
@@ -21,7 +21,7 @@
     <summary>emrys</summary>
     <p align="center"> <img src="https://files.catbox.moe/ggppiw.gif">
     <br> em / emrys . 12-16 . ???
-    <br> <img src="https://files.catbox.moe/itfh0s.gif"> <img src="https://files.catbox.moe/ouce8w.gif"> </p>
+    <br> <img src="https://files.catbox.moe/itfh0s.gif"> <img src="https://files.catbox.moe/jq0jb3.gif"> <img src="https://files.catbox.moe/ouce8w.gif"> </p>
   </details>
 </body>
 
@@ -31,7 +31,7 @@
     <summary>rick</summary>
     <p align="center"> <img src="https://files.catbox.moe/auodrq.gif">
     <br> rick . 60+ . ???
-    <br> <img src="https://files.catbox.moe/e5b1i7.png"> <img src="https://files.catbox.moe/mlf37n.gif"> </p>
+    <br> <img src=""> <img src="https://files.catbox.moe/e5b1i7.png"> <img src="https://files.catbox.moe/mlf37n.gif"> </p>
   </details>
 </body>
 
