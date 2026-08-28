@@ -3,6 +3,7 @@
 <p align="center"> morty . 18+ . subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
   <br> Dni people that hate me. That's about it.
+  <br> I do NOT ship rickorty btw!
 <br> Yes, I will end up following people just because they have a r&m skin.
 <br> Don’t treat alters as their age unless stated otherwise. </p>
 
