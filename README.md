@@ -24,7 +24,6 @@
     <br> em / emrys . 12-16 . ???
     <br> <img src="https://files.catbox.moe/itfh0s.gif"> <img src="https://files.catbox.moe/jq0jb3.gif"> <img src="https://files.catbox.moe/ouce8w.gif"> </p>
   </details>
-</body>
 
 <p align="center"> <mark>"And your beating heart has gone insane,"</mark> </p>
 
@@ -34,6 +33,13 @@
     <br> rick . 60+ . persecutor
     <br> <img src="https://files.catbox.moe/yhrs0a.png"> <img src="https://files.catbox.moe/e5b1i7.png"> <img src="https://files.catbox.moe/mlf37n.gif"> </p>
   </details>
-</body>
 
 <p align="center"> <mark>"it's always resonating"</mark> </p>
+
+  <details>
+    <summary>storage rick</summary>
+    <p align="center"> <img src="https://files.catbox.moe/funn93.png">
+    <br> storage rick . 60+ . caretaker
+    <br> <img src=""> <img src=""> <img src=""> </p>
+  </details>
+</body>
