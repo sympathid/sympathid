@@ -40,6 +40,6 @@
     <summary>storage rick</summary>
     <p align="center"> <img src="https://files.catbox.moe/funn93.png">
     <br> storage rick . 60+ . caretaker
-    <br> <img src=""> <img src=""> <img src=""> </p>
+    <br> <img src="https://files.catbox.moe/ou982x.gif"> <img src="https://files.catbox.moe/snfkjb.png"> <img src="https://files.catbox.moe/89wqjv.gif"> </p>
   </details>
 </body>
