@@ -1,6 +1,6 @@
 <body>
 
-<p> <img align="left" src="" width="258" height="386"> catbox wont load. wip
+<p> <img align="left" src="https://files.catbox.moe/0stnng.png" width="258" height="386">
 
  <br> <b>morty</b> ◞ 18+ ◟subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
@@ -9,7 +9,8 @@
     <br> ⋆
   <br> i have no dni; just don’t be an ass.
   <br> i <i>don’t</i> ship rickorty. (≖_≖ )
-<br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif"> <img src="https://files.catbox.moe/1xh4jr.gif">
+<br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif"> <img src="https://files.catbox.moe/1xh4jr.gif"> i need more blinkies.
+<br> <sub> ac: [pocketemorty](https://www.tumblr.com/pocketemorty) </sub>
 </p>
 <br clear="left"/>
 
