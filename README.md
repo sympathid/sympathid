@@ -1,6 +1,6 @@
 <body>
 
-<p> <img align="left" src=""> catbox wont load. wip
+<p> <img align="left" src="" width="258" height="386"> catbox wont load. wip
 
  <br> <b>morty</b> ◞ 18+ ◟subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
