@@ -2,7 +2,7 @@
 
 <p> <img align="left" src=""> catbox wont load. wip
 
- <br> <b>morty</b>  ྀ18+ ི subsys
+ <br> <b>morty</b> . 18+ . subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
   <br> ── ⟢ ・⸝⸝
     <br> i follow people if i see them with a r&m pony skin.
