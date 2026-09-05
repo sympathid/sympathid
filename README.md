@@ -1,11 +1,17 @@
 <body>
-<p align="center"> morty . 18+ . subsys
+
+<p> <img align="left" src=""> catbox wont load. wip
+
+ <br> <b>morty</b>  ྀ18+ ི subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
-  <br> Dni people that hate me. That's about it.
-  <br> I do NOT ship rickorty btw!
-<br> Yes, I will end up following people just because they have a r&m skin.
-<br> Don’t treat alters as their age unless stated otherwise.
-<br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif"> <img src="https://files.catbox.moe/1xh4jr.gif"> </p>
+  <br> ── ⟢ ・⸝⸝
+    <br> i follow people if i see them with a r&m pony skin.
+    <br>  ྀི
+  <br> i have no dni; just don’t be an ass.
+  <br> i <i>don’t</i> ship rickorty. (≖_≖ )
+<br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif"> <img src="https://files.catbox.moe/1xh4jr.gif">
+</p>
+<br clear="left"/>
 
   <details>
     <summary>morty</summary>
