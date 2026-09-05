@@ -1,6 +1,6 @@
 <body>
 
-<p> <img align="left" src="https://files.catbox.moe/0stnng.png" width="258" height="386">
+<p> <img align="left" src="https://files.catbox.moe/0stnng.png" width="258">
 
  <br> <b>morty</b> ◞ 18+ ◟subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
