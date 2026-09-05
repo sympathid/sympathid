@@ -2,11 +2,11 @@
 
 <p> <img align="left" src=""> catbox wont load. wip
 
- <br> <b>morty</b> . 18+ . subsys
+ <br> <b>morty</b> ◞ 18+ ◟subsys
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
   <br> ── ⟢ ・⸝⸝
     <br> i follow people if i see them with a r&m pony skin.
-    <br>  ྀི
+    <br> ⋆
   <br> i have no dni; just don’t be an ass.
   <br> i <i>don’t</i> ship rickorty. (≖_≖ )
 <br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif"> <img src="https://files.catbox.moe/1xh4jr.gif">
