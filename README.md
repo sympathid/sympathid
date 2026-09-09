@@ -9,7 +9,10 @@
     <br> ⋆
   <br> i have no dni; just don’t be an ass.
   <br> i <i>don’t</i> ship rickorty. (≖_≖ )
-<br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif"> <img src="https://files.catbox.moe/1xh4jr.gif"> <img src="https://files.catbox.moe/9a78m9.gif"> <img src="https://files.catbox.moe/9coox1.gif"> <img src="https://files.catbox.moe/xe4wzl.gif"> <img src="https://files.catbox.moe/t7e78f.gif"> <img src="https://files.catbox.moe/4vzxhj.gif">
+<br> <img src="https://files.catbox.moe/dx3547.gif"> <img src="https://files.catbox.moe/th7b3k.gif">
+<br> <img src="https://files.catbox.moe/1xh4jr.gif"> <img src="https://files.catbox.moe/9a78m9.gif">
+<br> <img src="https://files.catbox.moe/9coox1.gif"> <img src="https://files.catbox.moe/xe4wzl.gif">
+<br> <img src="https://files.catbox.moe/t7e78f.gif"> <img src="https://files.catbox.moe/4vzxhj.gif">
 <br> <sub> ac: [pocketemorty](https://www.tumblr.com/pocketemorty) </sub>
 </p>
 <br clear="left"/>
