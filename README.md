@@ -6,6 +6,7 @@
   <br> <img src="https://files.catbox.moe/s4ku8m.gif">
   <br> ── ⟢ ・⸝⸝
     <br> i follow people if i see them with a r&m pony skin.
+    <br> (regardless of dni, so block me if needed)
     <br> ⋆
   <br> i have no dni; just don’t be an ass.
   <br> i <i>don’t</i> ship rickorty. (≖_≖ )
